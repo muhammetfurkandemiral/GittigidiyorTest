@@ -1,0 +1,39 @@
+
+
+<<< Recorded commands on Thu Oct 07 2021 13:26:18 GMT+0300 (GMT+03:00)
+I.fillField('//div[@class="sc-4995aq-4 dNPmGY"]//input[@class="sc-4995aq-0 sc-14oyvky-0 gHqOYK"]', 'bilgisayar');
+
+<<< Recorded commands on Thu Oct 07 2021 15:38:24 GMT+0300 (GMT+03:00)
+I.fillField('//div[@class="sc-4995aq-4 dNPmGY"]//input[@class="sc-4995aq-0 sc-14oyvky-0 gHqOYK"]', 'bilgisayar');
+I.click('//button[@class="qjixn8-0 sc-1bydi5r-0 gaMakD"]');
+
+<<< Recorded commands on Thu Oct 07 2021 15:41:24 GMT+0300 (GMT+03:00)
+I.click('//a[@class="tyj39b-5 lfsBU"]');
+
+<<< Recorded commands on Thu Oct 07 2021 15:43:03 GMT+0300 (GMT+03:00)
+I.click('//a[@class="tyj39b-5 lfsBU"]');
+
+<<< Recorded commands on Thu Oct 07 2021 15:51:12 GMT+0300 (GMT+03:00)
+I.click('//a[@title="HP 245 G8 27J57EA ryzen 3-3250U 8GB 256GB ssd 14 Windows 10 FULL HD notebook DİZÜSTÜ laptop"]');
+I.click('//button[@id="add-to-basket"]');
+I.click('//div[@class="basket-icon-container"]');
+
+<<< Recorded commands on Thu Oct 07 2021 16:07:39 GMT+0300 (GMT+03:00)
+I.click('//div[@class="basket-icon-title hidden-m hidden-t"]');
+I.click('//div[@class="gg-input gg-input-select "]');
+I.click('//div[@class="gg-input gg-input-select "]//select[@class="amount"]');
+I.selectOption('//select[@data-id="500595797"]','2');
+
+<<< Recorded commands on Thu Oct 07 2021 16:10:27 GMT+0300 (GMT+03:00)
+I.click('//div[@class="basket-icon-title hidden-m hidden-t"]');
+
+<<< Recorded commands on Thu Oct 07 2021 16:31:11 GMT+0300 (GMT+03:00)
+I.waitForClickable('//button[@id="add-to-basket"]');
+I.click('//button[@id="add-to-basket"]');
+
+<<< Recorded commands on Thu Oct 07 2021 16:50:14 GMT+0300 (GMT+03:00)
+I.waitForClickable('//div[@class="gg-d-24 hidden-m update-buttons-container"]//a[@class="btn-delete btn-update-item"]');
+I.click('//div[@class="gg-d-24 hidden-m update-buttons-container"]//a[@class="btn-delete btn-update-item"]');
+
+<<< Recorded commands on Thu Oct 07 2021 16:58:34 GMT+0300 (GMT+03:00)
+I.see('Sepetinizde ürün bulunmamaktadır.');
