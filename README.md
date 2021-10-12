@@ -2,8 +2,8 @@
 > Codeceptjs kullanılmıştır.
 > 
 > Page object pattern prensiplerine bağlı, kolay güncellenebilir kod denemesi.
-> 
-
+>
+>Çalışma videosu: https://lnkd.in/eyGgrbHK
 
 ## Test Senaryosu
 
