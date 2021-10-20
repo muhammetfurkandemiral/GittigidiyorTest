@@ -3,7 +3,11 @@
 > 
 > Page object pattern prensiplerine bağlı, kolay güncellenebilir kod denemesi.
 >
->Çalışma videosu: https://lnkd.in/eyGgrbHK
+>Çalışma videosu: 
+
+
+https://user-images.githubusercontent.com/37184598/138091061-37e5482f-dd84-460d-aad4-b30c26e1e3ba.mp4
+
 
 ## Test Senaryosu
 
