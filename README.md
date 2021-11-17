@@ -1,5 +1,5 @@
 # Gittigidiyor Test
-> Codeceptjs kullanılmıştır.
+> CodeceptJs ve Selenium kullanılmıştır.
 > 
 > Page object pattern prensiplerine bağlı, kolay güncellenebilir kod denemesi.
 >
